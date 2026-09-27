@@ -135,6 +135,17 @@ O projeto aplica as *key constraints* (restrições-chave) da arquitetura REST d
 > power banks alocados e em estoque, histórico de aluguéis, vendas e aluguéis em andamento.
 
 ---
+## 🤖 Uso de Inteligência Artificial
+
+Este projeto foi desenvolvido com apoio de ferramentas de IA, usadas de forma declarada:
+
+**Papel do autor agindo na de Engenheiro de Solução de Sistemas:** arquitetura da concepção do problema, arquitetura da solução e do modelo de negócio (franquia, prazo de 24h,
+estoque e alocação), definição das funcionalidades e do layout, revisão de cada versão, testes da aplicação e publicação nos repositórios.
+
+**Claude (Anthropic)**: código da API e do front-end a partir das 
+especificações do autor, testes automatizados de ponta a ponta e redação da documentação.
+
+**VS Code + GitHub Copilot**: apoio na edição e nos ajustes do código.
 
 
 ---
