@@ -139,7 +139,7 @@ O projeto aplica as *key constraints* (restrições-chave) da arquitetura REST d
 
 Este projeto foi desenvolvido com apoio de ferramentas de IA, usadas de forma declarada:
 
-**Papel do autor agindo na de Engenheiro de Solução de Sistemas:** arquitetura da concepção do problema, arquitetura da solução e do modelo de negócio (franquia, prazo de 24h,
+**Papel do autor na função de Arquiteto de Solução de Sistemas:** arquitetura da concepção do problema, arquitetura da solução e do modelo de negócio (franquia, prazo de 24h,
 estoque e alocação), definição das funcionalidades e do layout, revisão de cada versão, testes da aplicação e publicação nos repositórios.
 
 **Claude (Anthropic)**: código da API e do front-end a partir das 
