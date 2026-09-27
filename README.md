@@ -136,12 +136,6 @@ O projeto aplica as *key constraints* (restrições-chave) da arquitetura REST d
 
 ---
 
-## 🔭 Próximos passos
-
-- Integração real com meios de pagamento (pré-autorização e estorno no cartão)
-- App do cliente com mapa de estações e disponibilidade em tempo real
-- Telemetria dos totens (nível de bateria real e alertas de manutenção)
-- Autenticação e perfis de acesso para operadores da central
 
 ---
 
